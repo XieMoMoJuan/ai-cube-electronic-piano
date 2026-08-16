@@ -1,0 +1,5 @@
+".\Objects\main.obj",
+".\Sources\lib\stc_usb_cdc_8h_xdata_bl51.lib" 
+TO ".\Objects\aicubepro1" 
+PRINT(".\Listings\aicubepro1.m51") RAMSIZE(256) 
+DISABLEWARNING (16) 
